@@ -1,0 +1,10 @@
+[ROLE] { 1 } [LANG] { 1 5 }
+[ROLE] { 1 } [LANG] { 2 }
+[ROLE] { 1 } [LANG] { 3 4 }
+[ROLE] { 0 } [LANG] { 3 2 }
+[ROLE] { 0 } [LANG] { 5 4 }
+[ROLE] { 0 } [LANG] { 2 3 }
+[ROLE] { 0 } [LANG] { 2 }
+[ROLE] { 0 } [LANG] { 1 }
+[ROLE] { 0 } [LANG] { 5 3 }
+[ROLE] { 0 } [LANG] { 3 2 }
