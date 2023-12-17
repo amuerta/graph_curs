@@ -1,12 +1,12 @@
 # ABOUT
 
-this is my university project for discrete math course.
-it is public only in case anyone wants to take a look at it,
+This is my university project for discrete math course.
+It is public only in case anyone wants to take a look at it,
 after time where i got my grade and forgot it exist.
 
 # WARNING
 
-this is **UNTESTED** software. I do not garantuee it even compiles anywhere besides Linux.
+This is **UNTESTED** software. I do not garantuee it even compiles anywhere besides Linux.
 Thus if you are a teacher from my KNUBA, consider creating discussion or issue.
 
 Also program may crash in very edge-case scenarios, because i didn't had time to fully test it.
