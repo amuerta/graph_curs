@@ -35,13 +35,14 @@ int       setRealloc    (Set* set, size_t newlen)
   set->vec = newvec;
   set->dead_indexes = dead_indexes_cap;
 
+  /*
   for(uint i = 0; i < set->set_length; i++)
   {
     Node* newnode = (Node*) realloc(set->vec[i], sizeof(Node)*1);
     if (!newnode) return 0;
     set->vec[i] = newnode;
   }
-
+ */ // turns out this is unessacery
   if(newlen > set->set_length)
     for(uint i = set->set_length; i < newlen; i++)
     {
