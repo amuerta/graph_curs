@@ -13,7 +13,7 @@ Also program may crash in very edge-case scenarios, because i didn't had time to
 
 # COMPILATION
 
-Before anything you need to install [Raylib] (https://www.raylib.com/) on your platform, follow the official instructions for your platform.
+Before anything you need to install [Raylib](https://www.raylib.com/) on your platform, follow the official instructions for your platform.
 
 Project has Makefile. To build the project you only need to run it
 
